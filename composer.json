@@ -1,0 +1,20 @@
+{
+    "name": "sairiz/nlp",
+    "description": "Neuro-Linguistic Programming Assessment",
+    "authors": [
+        {
+            "name": "Saiffil Fariz Mohamad Yusuff",
+            "email": "saiffil@mtouch.my"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sairiz\\Nlp\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
